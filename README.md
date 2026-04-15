@@ -17,7 +17,7 @@ Two-layer approach:
 ## Install
 
 ```bash
-pi install npm:pi-agent-autodiscovery
+pi install git:github.com/0xkuze/pi-agent-autodiscovery
 ```
 
 Requires [pi-subagents](https://github.com/nicobailon/pi-subagents) to be installed.
@@ -58,5 +58,5 @@ This is the key mechanism — system prompt instructions are weak suggestions th
 ## Uninstall
 
 ```bash
-pi remove npm:pi-agent-autodiscovery
+pi remove git:github.com/0xkuze/pi-agent-autodiscovery
 ```
